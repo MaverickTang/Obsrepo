@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9475d680d21bd1b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Ze",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "164d3ec2a53be715",
+        "type": "tabs",
+        "dimension": 51.165803108808284,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2456119478785805,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fcfb21999f850b2",
+        "type": "tabs",
+        "dimension": 48.834196891191716,
+        "children": [
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "lastOpenFiles": [
+    "000 - 📥 Inbox·收件箱/产业结构与城市化.md",
+    "001 - 🖥 Workbench·工作台/001号盒子/元问题.md",
+    "001 - 🖥 Workbench·工作台/Untitled.md",
+    "001 - 🖥 Workbench·工作台/001号盒子/卡片盒笔记法-Zettelkasten.md",
+    "100 - 🗄 Projects·项目/基于交易成本理论现代创业基本法则.md",
+    "010 - 🙆‍♂️ Personal Growth·个人成长/严父思维慈母思维.md",
+    "000  - 🧭 MOC·索引地图/030 Concept·观念 MOC.md",
+    "010 - 🙆‍♂️ Personal Growth·个人成长/朋友.md",
+    "000  - 🧭 MOC·索引地图/Tags·标签 MOC.md",
+    "000 - 📥 Inbox·收件箱/Day07 财务篇｜超越记账，个人财务系统升级你的财务管理.md"
+  ]
+}

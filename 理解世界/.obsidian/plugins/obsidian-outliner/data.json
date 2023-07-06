@@ -1,0 +1,13 @@
+{
+  "styleLists": false,
+  "debug": false,
+  "stickCursor": false,
+  "betterEnter": true,
+  "betterTab": true,
+  "selectAll": false,
+  "listLines": false,
+  "listLineAction": "none",
+  "disableZoomNotification": false,
+  "hideWarning": false,
+  "zoomOnClick": true
+}

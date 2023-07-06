@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "86695f4a8a7bda61",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de9f0b8881a96bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "爱的艺术.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59eb02202490ea70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1db6125fddb18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4299efc037e08f30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9db713ce7599f41e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69091df1100da10b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9718d5b683949ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4e7db9640789152",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "爱的艺术.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "071e05afbf940ef0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "爱的艺术.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f24e2e19f74a5b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1471ab2f9c302db1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "爱的艺术.md"
+              }
+            }
+          },
+          {
+            "id": "417bab9be828bf29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3de9f0b8881a96bc",
+  "lastOpenFiles": [
+    "爱的艺术.md",
+    "电影赏析.md",
+    "美食.md",
+    "摄影与视频制作.md",
+    "人类简史.md",
+    "枪炮、病菌与钢铁（环境对历史的影响）.md",
+    "潜规则➕血酬定律.md",
+    "未命名.md",
+    "2022-06-10.md",
+    "Excalidraw/Drawing 2022-06-10 17.30.32.excalidraw.md"
+  ]
+}

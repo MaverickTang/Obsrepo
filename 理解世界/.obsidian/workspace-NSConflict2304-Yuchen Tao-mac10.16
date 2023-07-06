@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3346d778684ef6ff",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "dimension": 66.32124352331607,
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "28bef87d3841ebe4",
+        "type": "tabs",
+        "dimension": 33.67875647668394,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6865821213658005,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "164d3ec2a53be715",
+        "type": "tabs",
+        "dimension": 35.364727608494924,
+        "children": [
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d25e29b2d019b363",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fcfb21999f850b2",
+        "type": "tabs",
+        "dimension": 64.63527239150508,
+        "children": [
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293
+  },
+  "lastOpenFiles": [
+    "001 - 🖥 Workbench·工作台/2021.W14-52.md",
+    "000  - 🧭 MOC·索引地图/050 Reporting System·报告系统 MOC.md",
+    "000  - 🧭 MOC·索引地图/000 Home.md",
+    "000  - 🧭 MOC·索引地图/逻辑论证 MOC.md",
+    "000  - 🧭 MOC·索引地图/用得上的哲学 MOC.md",
+    "000  - 🧭 MOC·索引地图/100 Work·工作 MOC.md",
+    "000  - 🧭 MOC·索引地图/200 Learning·学习 MOC.md",
+    "000  - 🧭 MOC·索引地图/020 Writings·写作 MOC.md",
+    "000  - 🧭 MOC·索引地图/040 Planning&Review·计划与复盘 MOC.md",
+    "000  - 🧭 MOC·索引地图/030 Concept·观念 MOC.md"
+  ]
+}

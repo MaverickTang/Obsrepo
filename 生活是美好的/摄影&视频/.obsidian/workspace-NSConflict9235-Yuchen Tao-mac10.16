@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "752df569a7363b6d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "100 - 🗄 Projects·项目/Evolution of the Roman Constitution.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "dimension": 66.32124352331607,
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#科哲",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "28bef87d3841ebe4",
+        "type": "tabs",
+        "dimension": 33.67875647668394,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/Evolution of the Roman Constitution.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7931536428267015,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.0036334991455
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "164d3ec2a53be715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/Evolution of the Roman Constitution.md"
+              }
+            }
+          },
+          {
+            "id": "d25e29b2d019b363",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fcfb21999f850b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/Evolution of the Roman Constitution.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5ac346364b51c5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286
+  },
+  "active": "752df569a7363b6d",
+  "lastOpenFiles": [
+    "100 - 🗄 Projects·项目/Evolution of the Roman Constitution.md",
+    "100 - 🗄 Projects·项目/西方文明简史 MOC.md",
+    "040 - 🎯 OKR·目标管理/Log/2021-06-09.md",
+    "100 - 🗄 Projects·项目/Note - Evolution of the Roma Constitution.md",
+    "001 - 🖥 Workbench·工作台/Note - Evolution of the Roma Constitution.md",
+    "001 - 🖥 Workbench·工作台/Evolution of the Roman Constitution.md",
+    "001 - 🖥 Workbench·工作台/第五章 介绍否证主义.md",
+    "001 - 🖥 Workbench·工作台/否证主义.md",
+    "001 - 🖥 Workbench·工作台/支持否证主义的逻辑观点.md",
+    "100 - 🗄 Projects·项目/科学哲学 - 牛津通识读本.md"
+  ]
+}

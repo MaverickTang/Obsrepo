@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b70a4d875aa8e24",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "dimension": 66.32124352331607,
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "28bef87d3841ebe4",
+        "type": "tabs",
+        "dimension": 33.67875647668394,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7931536428267015,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.0036334991455
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "164d3ec2a53be715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d25e29b2d019b363",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fcfb21999f850b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5ac346364b51c5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.574951171875
+  },
+  "active": "8b70a4d875aa8e24",
+  "lastOpenFiles": [
+    "001 - 🖥 Workbench·工作台/哲学视角下的统计学.md",
+    "100 - 🗄 Projects·项目/统计学究竟靠不靠谱.md",
+    "001 - 🖥 Workbench·工作台/统计学在做什么.md",
+    "000  - 🧭 MOC·索引地图/020 Writings·写作 MOC.md",
+    "100 - 🗄 Projects·项目/西方文明简史.md",
+    "001 - 🖥 Workbench·工作台/Innocent III - The Apex of Papal Power.md",
+    "001 - 🖥 Workbench·工作台/Gregorian Reform.md",
+    "001 - 🖥 Workbench·工作台/The German Monarchy.md",
+    "001 - 🖥 Workbench·工作台/The Growth of the French Kingdom.md",
+    "001 - 🖥 Workbench·工作台/The Rise of States - England.md"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb2f64085974302",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ebfec9b51c6bec3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#English",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f9fc49aad5420d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d619c21b33b25ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d348f49475ced207",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "94ff14df32cff49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5665283203125
+  },
+  "lastOpenFiles": [
+    "On the process of making MOCs/_IncubationHabits/Words I've used to describe important habits.md",
+    "On the process of making MOCs/_IncubationHabits/201502201031 Habit Formation Research Article.md",
+    "On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
+    "On the process of making MOCs/_Maps of Contents MOC.md",
+    "210 - Life Long Learning/知识管理/构建个人知识管理系统（上） 发布版.md",
+    "210 - Life Long Learning/OKR 系统/100 - 系统篇 - 如何用个人 OKR 系统实现年度目标？.md",
+    "210 - Life Long Learning/OKR 系统/100.1 - 系统篇.md",
+    "210 - Life Long Learning/OKR 系统/Untitled.md",
+    "000 - Inbox/output/Day01 系统篇｜如何用个人 OKR 系统实现年度目标？.md",
+    "310 - Daily Log/2021-01-26.md"
+  ]
+}

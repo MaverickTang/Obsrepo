@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb4be106867da33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "040 - 🎯 OKR·目标管理/Log/2021-04-13.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "dimension": 66.32124352331607,
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Zote",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "28bef87d3841ebe4",
+        "type": "tabs",
+        "dimension": 33.67875647668394,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2021-04-13.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6819580116883097,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "164d3ec2a53be715",
+        "type": "tabs",
+        "dimension": 52.251023192360165,
+        "children": [
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2021-04-13.md"
+              }
+            }
+          },
+          {
+            "id": "d25e29b2d019b363",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0fcfb21999f850b2",
+        "type": "tabs",
+        "dimension": 47.748976807639835,
+        "children": [
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2021-04-13.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "active": "aeb4be106867da33",
+  "lastOpenFiles": [
+    "040 - 🎯 OKR·目标管理/Log/2021-04-13.md",
+    "001 - 🖥 Workbench·工作台/2021.W15-52.md",
+    "000  - 🧭 MOC·索引地图/050 Reporting System·报告系统 MOC.md",
+    "001 - 🖥 Workbench·工作台/W1D2.md",
+    "001 - 🖥 Workbench·工作台/W1D4.md",
+    "000  - 🧭 MOC·索引地图/English Learning MOC.md",
+    "Template/Template - English01.md",
+    "001 - 🖥 Workbench·工作台/W1D3.md",
+    "001 - 🖥 Workbench·工作台/002/非对称风险.md",
+    "001 - 🖥 Workbench·工作台/非对称风险.md"
+  ]
+}

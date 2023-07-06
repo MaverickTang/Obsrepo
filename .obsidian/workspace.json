@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "86695f4a8a7bda61",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49b66e18d4ee97e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60c708af675eb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/数模/01准备.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceebb831b131a394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬件/杂/06I2C.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c39148ca7f1ce73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬件/MS/6.Communication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19661f1f823495d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/数模/Matlab入门.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "834ecb074392d025",
+    "type": "split",
+    "children": [
+      {
+        "id": "804119d165c77e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629bff5833a9cceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "275107346b04754c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305
+  },
+  "right": {
+    "id": "0c4f97ea91bebc0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b9c489338b07d4",
+        "type": "tabs",
+        "dimension": 28.044692737430154,
+        "children": [
+          {
+            "id": "08076e4adf67302a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9a3e739ef5b68c60",
+        "type": "tabs",
+        "dimension": 35.97765363128492,
+        "children": [
+          {
+            "id": "95f74f6c8e82c361",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/数模/01准备.md"
+              }
+            }
+          },
+          {
+            "id": "6b40a6f13edbad99",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "数学/数模/01准备.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.500564277634889,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e1c8257e13ae9ef6",
+        "type": "tabs",
+        "dimension": 35.97765363128492,
+        "children": [
+          {
+            "id": "76ce7d392c1068e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3415b3f256d8d0e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/数模/01准备.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "775e3007aab05d79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/数模/01准备.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c40b9edf753f8eb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa053051874a5f96",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "629bff5833a9cceb",
+  "lastOpenFiles": [
+    "数学/数模/Matlab计算.md",
+    "数学/数模/Matlab高级教程.md",
+    "数学/数模/Matlab入门.md",
+    "数学/数模/01准备.md",
+    "硬件/MS/7. UART.md",
+    "硬件/MS/8.SPI.md",
+    "硬件/MS/11. Mbed OS.md",
+    "硬件/MS/10. PWM.md",
+    "硬件/MS/6.Communication.md",
+    "硬件/MS/4. Semiconductor.md",
+    "硬件/MS/5.multiplexer&demultiplexer.md",
+    "数学/latex学习/Latexit使用方法.md",
+    "数学/latex学习",
+    "数学/untitled folder",
+    "硬件开发/MS/4. Semiconductor.md",
+    "硬件开发/MS/5.multiplexer&demultiplexer.md",
+    "硬件开发/MS/3. ADC&DAC.md",
+    "硬件开发/MS/2. Memory.md",
+    "硬件开发/MS/1. Embedded System.md",
+    "硬件开发/06I2C.md",
+    "硬件开发/MS",
+    "硬件开发/05SPI.md",
+    "硬件开发/04PMW.md",
+    "硬件开发/02开发硬件.md",
+    "硬件开发/03运算放大器.md",
+    "硬件开发/01STM32.md",
+    "硬件开发",
+    "哲学/苏菲的世界.md",
+    "程序/硬件开发/MS/5.multiplexer&demultiplexer.md",
+    "程序/硬件开发/MS/4. Semiconductor.md",
+    "程序/02基础/C语言",
+    "程序/02基础",
+    "程序/01素养",
+    "程序/杂感/数据存储历史",
+    "程序/杂感",
+    "数学/高等数学",
+    "程序/信息安全/http.jpg"
+  ]
+}

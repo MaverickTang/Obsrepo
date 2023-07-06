@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "app:open-settings",
+    "obsidian-enhancing-mindmap:Create New MindMap",
+    "obsidian-excalidraw-plugin:excalidraw-insert-last-active-transclusion",
+    "flashcards-obsidian:generate-flashcard-current-file",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "86695f4a8a7bda61",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe3e7b888c39382",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "人类简史三部曲/未来简史/03失去控制权.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6837433e37e4677f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3af8943bc79f30a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb48c640b2f79225",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "becafa9ffd873059",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fbf5b2a5869a3d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0366bdc8543e94c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51441424f0e06fc5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "117836aba351cce3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人类简史三部曲/未来简史/03失去控制权.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "506f9bd56e0f3b2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人类简史三部曲/未来简史/03失去控制权.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4093b5305546491d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37f7df309aac79bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人类简史三部曲/未来简史/03失去控制权.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7fe3e7b888c39382",
+  "lastOpenFiles": [
+    "人类简史三部曲/未来简史/02为世界赋予意义.md",
+    "人类简史三部曲/未来简史/01 征服世界.md",
+    "人类简史三部曲/未来简史/03失去控制权.md",
+    "人类简史三部曲/今日简史/00今日简史.md",
+    "人类简史三部曲/人类简史/04.科学革命.md",
+    "人类简史三部曲/人类简史/00.人类简史.md",
+    "杂感/费曼学习法.md",
+    "杂感/浮士德.md",
+    "潜规则/01官吏与百姓.md",
+    "人类简史三部曲/未来简史/算法.md"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "048caff3d1f4fe06",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "dimension": 55.46058879392213,
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "用得上",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1dbc61863fa24402",
+        "type": "tabs",
+        "dimension": 44.53941120607787,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6989606412938238,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.0036334991455
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 292.5435485839844,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "000  - 🧭 MOC·索引地图/摄影艺术理论 MOC.md",
+    "000  - 🧭 MOC·索引地图/100 Work·工作 MOC.md",
+    "000  - 🧭 MOC·索引地图/000 Home.md",
+    "100 - 🗄 Projects·项目/李雨泽的性格特点.md",
+    "000  - 🧭 MOC·索引地图/李雨泽 MOC.md",
+    "000  - 🧭 MOC·索引地图/Friends·我的朋友 MOC.md",
+    "001 - 🖥 Workbench·工作台/年度计划与复盘.md",
+    "000  - 🧭 MOC·索引地图/040 BSC·平衡记分卡 MOC.md",
+    "001 - 🖥 Workbench·工作台/Untitled.md",
+    "000  - 🧭 MOC·索引地图/OKR MOC.md"
+  ]
+}

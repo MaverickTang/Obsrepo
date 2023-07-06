@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "81adfacfcf95bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d864127ebab9287",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "100 - 🗄 Projects·项目/The Early Luther.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9820757e707db7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "befbc87f8d2758bf",
+        "type": "tabs",
+        "dimension": 29.40414507772021,
+        "children": [
+          {
+            "id": "f835c6e5496c7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/The Early Luther.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7772357355409775,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cae3fd9882404c46",
+        "type": "tabs",
+        "dimension": 70.5958549222798,
+        "children": [
+          {
+            "id": "82fc3e99fe3aee02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec3d1fee0793c584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "a643d4f725dc1b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "164d3ec2a53be715",
+        "type": "tabs",
+        "dimension": 51.683937823834206,
+        "children": [
+          {
+            "id": "2b14f0b78f69bc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/The Early Luther.md"
+              }
+            }
+          },
+          {
+            "id": "d25e29b2d019b363",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "656f791f58f49766",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b3925146c1de2be",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0fcfb21999f850b2",
+        "type": "tabs",
+        "dimension": 48.316062176165794,
+        "children": [
+          {
+            "id": "39bd64fa8e1b958e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/The Early Luther.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5ac346364b51c5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "active": "1d864127ebab9287",
+  "lastOpenFiles": [
+    "100 - 🗄 Projects·项目/The Early Luther.md",
+    "100 - 🗄 Projects·项目/西方文明简史.md",
+    "000  - 🧭 MOC·索引地图/020 Writings·写作 MOC.md",
+    "001 - 🖥 Workbench·工作台/秦制两千年.md",
+    "100 - 🗄 Projects·项目/哲学冲动涌向何方.md",
+    "001 - 🖥 Workbench·工作台/大学期末的求知欲.md",
+    "001 - 🖥 Workbench·工作台/醒醒吧！内卷不过是个故事而已.md",
+    "001 - 🖥 Workbench·工作台/Economic Dislocation and Social Upheaval.md",
+    "001 - 🖥 Workbench·工作台/未命名.md",
+    "001 - 🖥 Workbench·工作台/The Decline of the Papacy.md"
+  ]
+}
