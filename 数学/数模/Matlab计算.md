@@ -10,46 +10,46 @@
 
 例如，让我们求解方程x-5 = 0中的x
 
-```
+```matlab
 solve('x-5=0')
 ```
 
 MATLAB将执行上述语句并返回以下结果-
 
-```
+```matlab
 ans =
    5
 ```
 
 您也可以将Solve函数称为-
 
-```
+```matlab
 y = solve('x-5 = 0')
 ```
 
 MATLAB将执行上述语句并返回以下结果-
 
-```
+```matlab
 y =
    5
 ```
 
 您甚至可能不包括等式的右侧-
 
-```
+```matlab
 solve('x-5')
 ```
 
 MATLAB将执行上述语句并返回以下结果-
 
-```
+```matlab
 ans =
    5
 ```
 
 如果方程式包含多个符号，则默认情况下MATLAB会假定您正在求解x，但是，solve函数具有另一种形式-
 
-```
+```matlab
 solve(equation, variable)
 ```
 
@@ -57,13 +57,13 @@ solve(equation, variable)
 
 例如，让我们求解v的方程v – u – 3t 2 =0。在这种情况下，我们应该写-
 
-```
+```matlab
 solve('v-u-3*t^2=0', 'v')
 ```
 
 MATLAB将执行上述语句并返回以下结果-
 
-```
+```matlab
 ans =
    3*t^2 + u
 ```

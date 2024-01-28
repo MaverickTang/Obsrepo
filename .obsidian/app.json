@@ -1,4 +1,5 @@
 {
+  "accentColor": "",
   "communityPluginSortOrder": "download",
   "showFrontmatter": false,
   "foldHeading": true,
@@ -450,7 +451,7 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "emacsyKeys": true,
   "smartIndentList": true,
   "legacyEditor": false,

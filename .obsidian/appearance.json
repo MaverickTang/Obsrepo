@@ -3,6 +3,5 @@
   "cssTheme": "Atom",
   "translucency": true,
   "baseFontSizeAction": false,
-  "theme": "obsidian",
-  "accentColor": ""
+  "theme": "obsidian"
 }

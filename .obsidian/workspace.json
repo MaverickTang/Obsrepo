@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e60c708af675eb18",
+            "id": "fa7c232ae4d81081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/数模/01准备.md",
+                "file": "旅行/旅行笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "ceebb831b131a394",
+            "id": "4c4d418e7b88ce03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/杂/06I2C.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c39148ca7f1ce73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "硬件/MS/6.Communication.md",
+                "file": "经济金融学/薛兆丰经济学讲义/00薛兆丰经济学讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,20 +34,72 @@
             }
           },
           {
-            "id": "19661f1f823495d3",
+            "id": "76bce38b554ae5d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/数模/Matlab入门.md",
-                "mode": "preview",
+                "file": "生活是美好的/艺术导论/艺术导论.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adfea4185de14fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活是美好的/艺术导论/艺术的起源.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c8b00b60d9f5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活是美好的/摄影&视频/摄影/04.进阶小技巧.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da946706794a6e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活是美好的/爱情/03爱的博弈.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f2253c084c7f512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "经济金融学/薛兆丰经济学讲义/03价格.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -113,6 +152,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "25f9b06bd3ac7e2a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
@@ -127,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/数模/01准备.md"
+                "file": "经济金融学/薛兆丰经济学讲义/03价格.md"
               }
             }
           },
@@ -137,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "数学/数模/01准备.md",
+                "file": "经济金融学/薛兆丰经济学讲义/03价格.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "爱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/数模/01准备.md",
+                "file": "经济金融学/薛兆丰经济学讲义/03价格.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/数模/01准备.md",
+                "file": "经济金融学/薛兆丰经济学讲义/03价格.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -256,47 +305,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "629bff5833a9cceb",
+  "active": "4f2253c084c7f512",
   "lastOpenFiles": [
-    "数学/数模/Matlab计算.md",
-    "数学/数模/Matlab高级教程.md",
-    "数学/数模/Matlab入门.md",
-    "数学/数模/01准备.md",
-    "硬件/MS/7. UART.md",
-    "硬件/MS/8.SPI.md",
-    "硬件/MS/11. Mbed OS.md",
-    "硬件/MS/10. PWM.md",
-    "硬件/MS/6.Communication.md",
-    "硬件/MS/4. Semiconductor.md",
-    "硬件/MS/5.multiplexer&demultiplexer.md",
-    "数学/latex学习/Latexit使用方法.md",
+    "旅行/旅行笔记.md",
+    "经济金融学/薛兆丰经济学讲义/04权利.md",
+    "经济金融学/薛兆丰经济学讲义/05投资.md",
+    "经济金融学/薛兆丰经济学讲义/08学派.md",
+    "经济金融学/薛兆丰经济学讲义/03价格.md",
+    "经济金融学/薛兆丰经济学讲义/00薛兆丰经济学讲义.md",
+    "生活是美好的/爱情/03爱的博弈.md",
+    "生活是美好的/爱情/爱情讲座.md",
+    "生活是美好的/爱情/00爱情.md",
+    "生活是美好的/摄影&视频/摄影/05. 技术与艺术.md",
+    "生活是美好的/摄影&视频/摄影/04.进阶小技巧.md",
+    "生活是美好的/艺术导论/艺术的起源.md",
+    "生活是美好的/艺术导论/什么是艺术.md",
+    "生活是美好的/艺术导论/艺术导论.md",
+    "生活是美好的/艺术导论",
+    "经济金融学/薛兆丰经济学讲义/07货币.md",
+    "经济金融学/薛兆丰经济学讲义/06团队.md",
+    "生活是美好的/乐理笔记/乐理基础.md",
+    "生活是美好的/乐理笔记/古典乐.md",
+    "生活是美好的/美食.md",
+    "生活是美好的/电影赏析.md",
+    "生活是美好的/爱情/02爱与孤独.md",
+    "生活是美好的/爱情/04霍乱时期的爱情.md",
+    "生活是美好的/爱情/01爱的艺术.md",
+    "生活是美好的/摄影&视频/视频剪辑/电影赏析.md",
+    "生活是美好的/爱的艺术.md",
+    "经济金融学/金融学讲义/常见术语.md",
+    "生活是美好的/乐理笔记",
+    "旅行",
     "数学/latex学习",
     "数学/untitled folder",
-    "硬件开发/MS/4. Semiconductor.md",
-    "硬件开发/MS/5.multiplexer&demultiplexer.md",
-    "硬件开发/MS/3. ADC&DAC.md",
-    "硬件开发/MS/2. Memory.md",
-    "硬件开发/MS/1. Embedded System.md",
-    "硬件开发/06I2C.md",
     "硬件开发/MS",
-    "硬件开发/05SPI.md",
-    "硬件开发/04PMW.md",
-    "硬件开发/02开发硬件.md",
-    "硬件开发/03运算放大器.md",
-    "硬件开发/01STM32.md",
     "硬件开发",
-    "哲学/苏菲的世界.md",
-    "程序/硬件开发/MS/5.multiplexer&demultiplexer.md",
-    "程序/硬件开发/MS/4. Semiconductor.md",
     "程序/02基础/C语言",
     "程序/02基础",
     "程序/01素养",
-    "程序/杂感/数据存储历史",
-    "程序/杂感",
-    "数学/高等数学",
     "程序/信息安全/http.jpg"
   ]
 }

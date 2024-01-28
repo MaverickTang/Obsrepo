@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "程序与数学/芯片.md",
+            "file": "医学通识讲义/医学史.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序与数学/芯片.md"
+                "file": "医学通识讲义/医学史.md"
               }
             }
           },
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "程序与数学/芯片.md",
+                "file": "医学通识讲义/医学史.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序与数学/芯片.md",
+                "file": "医学通识讲义/医学史.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序与数学/芯片.md",
+                "file": "医学通识讲义/医学史.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,19 +184,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 235
   },
   "active": "79bb500f2d71dd5c",
   "lastOpenFiles": [
+    "医学通识讲义/医学史.md",
+    "医学通识讲义/医学原理.md",
+    "医学通识讲义/什么是医学.md",
     "程序与数学/稚晖君.md",
     "搞钱/金融学讲义/007资产定价.md",
     "程序与数学/硬件开发/03运算放大器.md",
     "程序与数学/硬件开发/02开发硬件.md",
     "程序与数学/硬件开发/03开发软件.md",
     "程序与数学/硬件开发/01STM32.md",
-    "搞钱/金融学讲义/001金融与思维.md",
-    "搞钱/金融学讲义/000金融学讲义.md",
-    "搞钱/金融学讲义/常见术语.md",
-    "搞钱/金融学讲义/006金融衍生品.md"
+    "搞钱/金融学讲义/001金融与思维.md"
   ]
 }
